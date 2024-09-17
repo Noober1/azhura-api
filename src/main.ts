@@ -67,6 +67,8 @@ async function bootstrap() {
       'http://localhost:3000',
       /^https?:\/\/([a-z0-9-]+\.)*ruhiyatna\.id$/,
     ],
+    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+    allowedHeaders: 'Content-Type, Authorization',
     credentials: true,
   });
 
