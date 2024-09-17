@@ -1,0 +1,910 @@
+word,hiragana,meaning,type
+明日,あした,besok,NOUN
+学校,がっこう,sekolah,NOUN
+友達,ともだち,teman,NOUN
+今日,きょう,hari ini,NOUN
+早く,はやく,"cepat; segera",NOUN
+家,いえ・うち,rumah,NOUN
+大事,だいじ,penting,NA_ADJECTIVE
+会議,かいぎ,rapat,NOUN
+部屋,へや,kamar,NOUN
+中,なか,dalam,NOUN
+猫,ねこ,kucing,NOUN
+電車,でんしゃ,kereta,NOUN
+切符,きっぷ,tiket,NOUN
+買いかた,かいかた,cara beli,TRANSITIVE
+駅員,えきいん,pegawai stasiun,NOUN
+先生,せんせい,guru,NOUN
+一度,いちど,"sekali; satu kali",NOUN
+毎日,まいにち,setiap hari,NOUN
+本,ほん,buku,NOUN
+映画,えいが,film,NOUN
+花,はな,bunga,NOUN
+新しい,あたらしい,baru,I_ADJECTIVE
+靴,くつ,sepatu,NOUN
+古い,ふるい,tua,I_ADJECTIVE
+電気代,でんきだい,tagihan listrik,NOUN
+今月中,こんげつちゅう,dalam bulan ini,NOUN
+昼ご飯,ひるごはん,makan siang,NOUN
+お茶,おちゃ,teh,NOUN
+部屋,へや,kamar,NOUN
+駅,えき,stasiun,NOUN
+出来ます,できます,bisa,INTRANSITIVE
+作ります,つくります,membuat,NOUN
+使います,つかいます,"memakai; menggunakan",TRANSITIVE
+借ります,かります,meminjam,TRANSITIVE
+貸します,かします,meminjamkan,TRANSITIVE
+休みます,やすみます,istirahat,INTRANSITIVE
+働きます,はたらきます,bekerja,INTRANSITIVE
+動きます,うごきます,bergerak,INTRANSITIVE
+待ちます,まちます,menunggu,TRANSITIVE
+持ちます,もちます,"membawa; memiliki",TRANSITIVE
+起きます,おきます,bangun,INTRANSITIVE
+寝ます,ねます,tidur,INTRANSITIVE
+通います,かよいます,pulang pergi,INTRANSITIVE
+通ります,とおります,melewati,INTRANSITIVE
+出かけます,でかけます,bepergian,INTRANSITIVE
+降ります,ふります,"turun (hujan; salju)",TRANSITIVE
+やみます,やみます,"berhenti (hujan; salju angin)",INTRANSITIVE
+晴れます,はれます,cerah,INTRANSITIVE
+曇ります,くもります,"berawan; mendung",INTRANSITIVE
+仕事,しごと, pekerjaan,NOUN
+一人,ひとり, sendiri,NOUN
+今夜,こんや, malam ini,NOUN
+道具,どうぐ, alat,NOUN
+図書館,としょかん, perpustakaan,NOUN
+本,ほん, buku,NOUN
+傘,かさ, payung,NOUN
+少し,すこし, sedikit,ADVERB
+明日,あした, besok,NOUN
+新しい,あたらしい, baru,NOUN
+会社,かいしゃ, perusahaan,NOUN
+車,くるま, mobil,NOUN
+友達,ともだち, teman,NOUN
+荷物,にもつ, barang bawaan,NOUN
+毎朝,まいあさ, setiap pagi,NOUN
+疲れた,つかれた, lelah,NOUN
+今すぐ,いますぐ, "sekarang juga; segera",ADVERB
+毎日,まいにち, setiap hari,NOUN
+学校,がっこう, sekolah,NOUN
+自転車,じてんしゃ, sepeda,NOUN
+公園,こうえん, taman,NOUN
+終わったら,おわったら, kalau sudah selesai,INTRANSITIVE
+今日,きょう, hari ini,NOUN
+雨,あめ, hujan,NOUN
+午後,ごご, "PM (setelah jam 12 siang)",NOUN
+前,まえ, "depan; sebelum",NOUN
+空,そら, langit,NOUN
+弁当,べんとう,bekal makanan,NOUN
+伝えます,つたえます,menyampaikan,TRANSITIVE
+説明します,せつめいします,menjelaskan,TRANSITIVE
+入院します,にゅういんします,masuk rumah sakit,INTRANSITIVE
+退院します,たいいんします,keluar rumah sakit,INTRANSITIVE
+引きます,ひきます,menarik,INTRANSITIVE
+押します,おします,"menekan; mendorong",INTRANSITIVE
+教えます,おしえます,"mengajarkan; memberi tahu",TRANSITIVE
+勉強します,べんきょうします,belajar,TRANSITIVE
+書きます,かきます,menulis,TRANSITIVE
+描きます,かきます,menggambar,TRANSITIVE
+歩きます,あるきます,berjalan,INTRANSITIVE
+走ります,はしります,lari,INTRANSITIVE
+泳ぎます,およぎます,berenang,INTRANSITIVE
+運動します,うんどうします,berolahraga,INTRANSITIVE
+笑います,わらいます,"tertawa; tersenyum",INTRANSITIVE
+怒ります,おこります,marah,INTRANSITIVE
+誘います,さそいます,mengajak,TRANSITIVE
+断ります,ことわります,menolak,TRANSITIVE
+足ります,たります,cukup,INTRANSITIVE
+大切,たいせつ,penting,NOUN
+先生,せんせい,guru,NOUN
+問題,もんだい,"masalah; soal",NOUN
+彼,かれ,"dia (laki laki)",NOUN
+病気,びょうき,sakit,NOUN
+元気,げんき,"sehat; semangat",NOUN
+赤い,あかい,merah,NOUN
+使い方,つかいかた,cara memakai,NOUN
+海外,かいがい,luar negri,NOUN
+英語,えいご,bahasa inggris,NOUN
+漢字,かんじ,kanji,NOUN
+黒板,こくばん,papan tulis,NOUN
+絵,え,gambar,NOUN
+毎朝,まいあさ,setiap pagi,NOUN
+学校,がっこう,sekolah,NOUN
+公園,こうえん,taman,NOUN
+子供,こども,anak kecil,NOUN
+犬,いぬ,anjing,NOUN
+健康,けんこう,kesehatan,NOUN
+学生,がくせい,pelajar,NOUN
+友達,ともだち,teman,NOUN
+映画,えいが,film,NOUN
+水,みず,air,NOUN
+頼みます,たのみます,"meminta bantuan;meminta tolong",TRANSITIVE
+乗ります,のります,"naik (kendaraan)",INTRANSITIVE
+乗り換えます,のりかえます,pindah naik kendaraan,TRANSITIVE
+似合います,にあいます,cocok,INTRANSITIVE
+片付けます,かたづけます,beres beres,TRANSITIVE
+取ります,とります,mengambil,TRANSITIVE
+置きます,おきます,menaruh,TRANSITIVE
+帰国します,きこくします,pulang ke negara asal,INTRANSITIVE
+拾います,ひろいます,memungut,TRANSITIVE
+数えます,かぞえます,menghitung,TRANSITIVE
+曲がります,まがります,belok,INTRANSITIVE
+混みます,こみます,"ramai; macet",INTRANSITIVE
+生産します,せいさんします,memproduksi,TRANSITIVE
+着ます,きます,"memakai (pakaian)",TRANSITIVE
+着きます,つきます,"sampai; tiba",INTRANSITIVE
+脱ぎます,ぬぎます,"membuka pakaian; celana",TRANSITIVE
+知ります,しります,mengetahui,TRANSITIVE
+降ります,おります,turun,TRANSITIVE
+捨てます,すてます,membuang,TRANSITIVE
+空きます,すきます,"sepi; lapar",INTRANSITIVE
+明日,あした,besok,NOUN
+準備,じゅんび,persiapan,NOUN
+友達,ともだち,teman,NOUN
+バス,ばす,bus,NOUN
+旅行,りょこう,"jalan jalan; travel",NOUN
+次,つぎ,selanjutnya,NOUN
+駅,えき,stasiun,NOUN
+電車,でんしゃ,kereta,NOUN
+服,ふく,"baju; pakaian",NOUN
+君,きみ,kamu,NOUN
+食事,しょくじ,makan,NOUN
+後,あと,setelah,NOUN
+食器,しょっき,peralatan makan,NOUN
+机,つくえ,meja,NOUN
+上,うえ,atas,NOUN
+家族,かぞく,keluarga,NOUN
+会いたい,あいたい,ingin bertemu,NOUN
+来月,らいげつ,bulan depan,NOUN
+道,みち,jalan,NOUN
+ゴミ,ごみ,sampah,NOUN
+教室,きょうしつ,ruang kelas,NOUN
+生徒,せいと,murid,NOUN
+人数,にんずう,jumlah orang,NOUN
+交差点,こうさてん,perempatan,NOUN
+右,みぎ,kanan,NOUN
+昼休み,ひるやすみ,istirahat siang,NOUN
+レストラン,れすとらん,restoran,NOUN
+工場,こうじょう,pabrik,NOUN
+新しい,あたらしい,baru,I_ADJECTIVE
+スポーツ,すぽーつ,sports,NOUN
+動きやすい,うごきやすい,mudah untuk bergerak,I_ADJECTIVE
+スーパー,すーぱー,supermarket,NOUN
+暑い,あつい,panas,I_ADJECTIVE
+ジャケット,じゃけっと,jaket,NOUN
+海外,かいがい,luar negri,NOUN
+文化,ぶんか,budaya,NOUN
+ゴミ箱,ごみばこ,tempat sampah,NOUN
+お腹,おなか,perut,NOUN
+何か,なんか,sesuatu,NOUN
+立ちます,たちます,berdiri,INTRANSITIVE
+座ります,すわります,duduk,INTRANSITIVE
+思います,おもいます,"mengira; berpendapat",INTRANSITIVE
+考えます,かんがえます,berpikir,TRANSITIVE
+見えます,みえます,bisa melihat,INTRANSITIVE
+聞こえます,きこえます,bisa mendengar,INTRANSITIVE
+連れます,つれます,"mengajak pergi; mengantar",TRANSITIVE
+進みます,すすみます,maju,INTRANSITIVE
+遊びます,あそびます,bermain,INTRANSITIVE
+運びます,はこびます,mengangkut,TRANSITIVE
+送ります,おくります,mengirim,TRANSITIVE
+返します,かえします,mengembalikan,TRANSITIVE
+辞めます,やめます,berhenti (melakukan sesuatu),TRANSITIVE
+住みます,すみます,tinggal,INTRANSITIVE
+出します,だします,mengeluarkan,TRANSITIVE
+出発します,しゅっぱつします,berangkat,INTRANSITIVE
+分かります,わかります,mengerti,INTRANSITIVE
+切ります,きります,memotong,TRANSITIVE
+勤めます,つとめます,bekerja di,INTRANSITIVE
+包みます,つつみます,membungkus,TRANSITIVE
+習います,ならいます,belajar,TRANSITIVE
+学びます,まなびます,belajar,TRANSITIVE
+兄,あに,kakak laki laki,NOUN
+教室,きょうしつ,ruang kelas,NOUN
+将来,しょうらい,masa depan,NOUN
+窓,まど,jendela,NOUN
+山,やま,gunung,NOUN
+犬,いぬ,anjing,NOUN
+散歩,さんぽ,jalan jalan,NOUN
+道,みち,jalan,NOUN
+子供,こども,anak anak,NOUN
+公園,こうえん,taman,NOUN
+重い,おもい,berat,NOUN
+荷物,にもつ,barang bawaan,NOUN
+部屋,へや,kamar,NOUN
+中,なか,dalam,NOUN
+両親,りょうしん,kedua orang tua,NOUN
+手紙,てがみ,surat,NOUN
+弟,おとうと,adik laki laki,NOUN
+お金,おかね,uang,NOUN
+今,いま,sekarang,NOUN
+仕事,しごと,pekerjaan,NOUN
+来月,らいげつ,bulan depan,NOUN
+新しい,あたらしい,baru,NOUN
+家,いえ,rumah,NOUN
+外,そと,luar,NOUN
+バス停,バスてい,halte bus,NOUN
+明日,あした,besok,NOUN
+午前,ごぜん,"sebelum jam 12 siang; A.M.",NOUN
+答え,こたえ,jawaban,NOUN
+野菜,やさい,sayur,NOUN
+会社,かいしゃ,perusahaan,NOUN
+食べ物,たべもの,makanan,NOUN
+彼女,かのじょ,"dia (perempuan); pacar",NOUN
+花,はな,bunga,NOUN
+音楽,おんがく,musik,NOUN
+探します,さがします,mencari,TRANSITIVE
+撮ります,とります,"mengambil foto; video",TRANSITIVE
+教わります,おそわります,diajarkan,INTRANSITIVE
+気をつけます,きをつけます,"hati hati; waspada",EXPRESSION
+洗います,あらいます,mencuci,TRANSITIVE
+洗濯します,せんたくします,mencuci pakaian,TRANSITIVE
+濡れます,ぬれます,basah,INTRANSITIVE
+乾きます,かわきます,kering,INTRANSITIVE
+知らせます,しらせます,memberi tahu,TRANSITIVE
+答えます,こたえます,menjawab,TRANSITIVE
+紹介します,しょうかいします,memperkenalkan,TRANSITIVE
+終わります,おわります,selesai,INTRANSITIVE
+結婚します,けっこんします,menikah,INTRANSITIVE
+離婚します,りこんします,cerai,INTRANSITIVE
+育てます,そだてます,membesarkan,TRANSITIVE
+調べます,しらべます,"mencari tahu; menyelidiki",TRANSITIVE
+踏みます,ふみます,menginjak,TRANSITIVE
+返事します,へんじします,"merespon; membalas pesan",INTRANSITIVE
+選びます,えらびます,memilih,TRANSITIVE
+飾ります,かざります,menghias,TRANSITIVE
+驚きます,おどろきます,"terkejut; kaget",INTRANSITIVE
+新しい,あたらしい,baru,I_ADJECTIVE
+旅行中,りょこうちゅう,saat sedang jalan jalan,EXPRESSION
+先生,せんせい,guru,NOUN
+単語,たんご,kosakata,NOUN
+道,みち,jalan,NOUN
+渡る,わたる,menyebrang,INTRANSITIVE
+時,とき,pada saat,NOUN
+食事,しょくじ,makan,NOUN
+前,まえ,sebelum; depan,NOUN
+手,て,tangan,NOUN
+布団,ふとん,kasur,NOUN
+大変,たいへん,susah; berat,NA_ADJECTIVE
+雨,あめ,hujan,NOUN
+風邪,かぜ,demam; pilek; masuk angin,NOUN
+風,かぜ,angin,NOUN
+強い,つよい,kuat,NOUN
+洗濯物,せんたくもの,cucian (pakaian),NOUN
+早く,はやく,segera; dengan cepat,ADVERB
+明日,あした,besok,NOUN
+会議,かいぎ,rapat,NOUN
+時間,じかん,jam,NOUN
+簡単,かんたん,mudah; gampang,NOUN
+彼氏,かれし,pacar (laki laki),NOUN
+友達,ともだち,teman,NOUN
+予定,よてい,rencana; jadwal,NOUN
+兄,あに,kakak laki laki,NOUN
+来年,らいねん,tahun depan,NOUN
+姉,あね,kakak perempuan,NOUN
+今,いま,sekarang,NOUN
+一人で,ひとりで,sendirian,EXPRESSION
+子ども,こども,anak anak,NOUN
+言葉,ことば,kata,NOUN
+車,くるま,mobil,NOUN
+名前,なまえ,nama,NOUN
+呼ばれたら,よばれたら,kalau dipanggil,TRANSITIVE
+母,はは,ibu,NOUN
+誕生日,たんじょうび,ulang tahun,NOUN
+部屋,へや,kamar,NOUN
+絵,え,gambar; lukisan,NOUN
+友人,ゆうじん,teman,NOUN
+寝坊します,ねぼうします,bangun kesiangan,INTRANSITIVE
+尋ねます,たずねます,bertanya; mengunjungi,TRANSITIVE
+引っ越します,ひっこします,pindah rumah,INTRANSITIVE
+復習します,ふくしゅうします,belajar ulang,TRANSITIVE
+心配します,しんぱいします,khawatir,TRANSITIVE
+忘れます,わすれます,lupa,TRANSITIVE
+急ぎます,いそぎます,bergegas; buru buru,INTRANSITIVE
+慣れます,なれます,terbiasa,INTRANSITIVE
+手伝います,てつだいます,membantu,TRANSITIVE
+投げます,なげます,melempar,TRANSITIVE
+招待します,しょうたいします,mengundang,TRANSITIVE
+挨拶します,あいさつします,mengucapkan salam,INTRANSITIVE
+振り込みます,ふりこみます,mengirim uang (via atm),TRANSITIVE
+掃除します,そうじします,bersih bersih,TRANSITIVE
+教育します,きょういくします,mendidik,TRANSITIVE
+旅行します,りょこうします,jalan jalan,INTRANSITIVE
+案内します,あんないします,memandu,TRANSITIVE
+比べます,くらべます,membandingkan,TRANSITIVE
+死にます,しにます,mati; meninggal,INTRANSITIVE
+生きます,いきます,hidup,INTRANSITIVE
+生みます,うみます,melahirkan,TRANSITIVE
+彼,かれ,dia (laki laki),NOUN
+毎朝,まいあさ,setiap pagi,NOUN
+起きる,おきる,bangun,INTRANSITIVE
+今日,きょう,hari ini,NOUN
+道,みち,jalan,NOUN
+迷った,まよった,tersesat; bingung,INTRANSITIVE
+近く,ちかく,dekat,NOUN
+人,ひと,orang,NOUN
+来週,らいしゅう,minggu depan,NOUN
+新しい,あたらしい,baru,I_ADJECTIVE
+アパート,あぱーと,apartment,NOUN
+漢字,かんじ,kanji,NOUN
+覚えにくい,おぼえにくい,susah diingat,I_ADJECTIVE
+何回も,なんかいも,berkali kali,ADVERB
+試験,しけん,ujian,NOUN
+合格,ごうかく,lulus,NOUN
+できるかどうか,できるかどうか,bisa atau tidak,EXPRESSION
+宿題,しゅくだい,PR,NOUN
+先生,せんせい,guru,NOUN
+怒られました,おこられました,dimarah,INTRANSITIVE
+後,あと,lagi,NOUN
+しかない,しかない,hanya ada,EXPRESSION
+駅,えき,stasiun,NOUN
+走っています,はしっています,lari,INTRANSITIVE
+仕事,しごと,pekerjaan,NOUN
+やっと,やっと,akhirnya,ADVERB
+同僚,どうりょう,teman kerja,NOUN
+困っている,こまっている,kesusahan,INTRANSITIVE
+川,かわ,sungai,NOUN
+石,いし,batu,NOUN
+友人,ゆうじん,teman,NOUN
+誕生日,たんじょうび,ulang tahun,NOUN
+パーティー,パーティー,pesta,NOUN
+社長,しゃちょう,boss,NOUN
+両親,りょうしん,kedua orang tua,NOUN
+お金,おかね,uang,NOUN
+部屋,へや,kamar,NOUN
+汚い,きたない,kotor,I_ADJECTIVE
+妹,いもうと,adik perempuan,NOUN
+一緒に,いっしょに,bersama,ADVERB
+大人,おとな,orang dewasa,NOUN
+ちゃんと,ちゃんと,dengan baik,ADVERB
+来年,らいねん,tahun depan,NOUN
+会社,かいしゃ,perusahaan,NOUN
+中国,ちゅうごく,Cina,NOUN
+初めて,はじめて,pertama kali,ADVERB
+東京,とうきょう,Tokyo,NOUN
+いろいろな,いろいろな,berbagai; bermacam macam,NA_ADJECTIVE
+本,ほん,buku,NOUN
+中身,なかみ,isi,NOUN
+１５年間,ねんかん,selama 15 tahun,EXPRESSION
+飼っていた,かっていた,memelihara,TRANSITIVE
+犬,いぬ,anjing,NOUN
+大きな,おおきな,besar,NA_ADJECTIVE
+事故,じこ,kecelakaan,NOUN
+けど,けど,tapi,PARTICLE
+猫,ねこ,kucing,NOUN
+子猫,こねこ,anak kucing,NOUN
+泣きます,なきます,menangis,INTRANSITIVE
+注意します,ちゅういします,memperingati,INTRANSITIVE
+浴びます,あびます,mandi; mengguyur,TRANSITIVE
+準備します,じゅんびします,mempersiapkan,TRANSITIVE
+疲れます,つかれます,lelah,INTRANSITIVE
+盗みます,ぬすみます,mencuri,TRANSITIVE
+相談します,そうだんします,berkonsultasi,TRANSITIVE
+眠ります,ねむります,tidur,INTRANSITIVE
+研究します,けんきゅうします,meneliti,TRANSITIVE
+繰り返します,くりかえします,mengulang,INTRANSITIVE
+行います,おこないます,melaksanakan; mengadakan,TRANSITIVE
+見せます,みせます,memperlihatkan,TRANSITIVE
+見学します,けんがくします,melihat lihat (untuk belajar),TRANSITIVE
+覚えます,おぼえます,mengingat,TRANSITIVE
+謝ります,あやまります,meminta maaf,TRANSITIVE
+貼ります,はります,menempel,TRANSITIVE
+踊ります,おどります,menari,INTRANSITIVE
+輸入します,ゆにゅうします,mengimpor,TRANSITIVE
+輸出します,ゆしゅつします,mengekspor,TRANSITIVE
+迎えます,むかえます,menjemput; menyambut,TRANSITIVE
+連絡します,れんらくします,menghubungi,TRANSITIVE
+スマホ,すまほ,smartphone,NOUN
+仕事,しごと,pekerjaan,NOUN
+今日,きょう,hari ini,NOUN
+一回も〜ない;いっかい,いちども〜ない;いっかい,tidak sekalipun; belum sekalipun,EXPRESSION
+シャワー,しゃわー,mandi (shower),NOUN
+明日,あした,besok,NOUN
+結婚,けっこん,pernikahan,NOUN
+ために,ために,demi; untuk,PARTICLE
+運動,うんどう,olahraga,NOUN
+あまり〜ない,あまり〜ない,tidak terlalu,EXPRESSION
+走った,はしった,lari,INTRANSITIVE
+泥棒,どろぼう,pencuri,NOUN
+物,もの,barang,NOUN
+どうすればいいか,どうすればいいか,harus bagaimana,EXPRESSION
+先生,せんせい,guru,NOUN
+音楽,おんがく,musik,NOUN
+うるさい,うるさい,ribut; berisik,I_ADJECTIVE
+ことができない,ことができない,tidak bisa,EXPRESSION
+渋滞,じゅうたい,macet,NOUN
+原因,げんいん,penyebab,NOUN
+同じ,おなじ,sama,NOUN
+失敗,しっぱい,gagal,NOUN
+何度も,なんども,berkali kali,ADVERB
+午後,ごご,P.M. (setelah jam 12 siang),NOUN
+面接,めんせつ,wawancara kerja,NOUN
+親友,しんゆう,sahabat,NOUN
+好きな,すき,suka,NA_ADJECTIVE
+動画,どうが,video,NOUN
+先月,せんげつ,bulan lalu,NOUN
+お菓子,おかし,snack; jajan,NOUN
+生産する,せいさんする,memproduksi,TRANSITIVE
+工場,こうじょう,pabrik,NOUN
+漢字,かんじ,kanji,NOUN
+難しい,むずかしい,susah,I_ADJECTIVE
+ひどい,ひどい,jahat,I_ADJECTIVE
+壁,かべ,dinding,NOUN
+ポスター,ぽすたー,poster,NOUN
+一緒に ,いっしょに,bersama,ADVERB
+お米,おこめ,beras,NOUN
+調味料,ちょうみりょう,bumbu; rempah,NOUN
+国,くに,negara,NOUN
+おじさん,おじさん,paman,NOUN
+空港,くうこう,bandara,NOUN
+病気,びょうき,sakit,NOUN
+会社,かいしゃ,perusahaan,NOUN
+上司,じょうし,atasan (kerja),NOUN
+遅れた,おくれた,terlambat,INTRANSITIVE
+賛成します,さんせいします,setuju,INTRANSITIVE
+反対します,はんたいします,berlawanan; tidak setuju,INTRANSITIVE
+遅れます,おくれます,terlambat,INTRANSITIVE
+間に合います,まにあいます,tepat waktu; tidak terlambat,INTRANSITIVE
+遠慮します,えんりょします,sungkan,INTRANSITIVE
+間違えます,まちがえます,melakukan kesalahan,TRANSITIVE
+電話します,でんわします,menelepon,TRANSITIVE
+頑張ります,がんばります,berusaha; semangat,INTRANSITIVE
+騒ぎます,さわぎます,membuat keributan,INTRANSITIVE
+鳴ります,なります,berbunyi,INTRANSITIVE
+鳴きます,なきます,bersuara (binatang),INTRANSITIVE
+運転します,うんてんします,mengendarai,TRANSITIVE
+営業します,えいぎょうします,buka; beroperasi (toko; restoran; dll),TRANSITIVE
+褒めます,ほめます,memuji,TRANSITIVE
+あげます,あげます,memberikan,TRANSITIVE
+もらいます,もらいます,menerima,TRANSITIVE
+くれます,くれます,diberikan,TRANSITIVE
+勝ちます,かちます,menang,INTRANSITIVE
+負けます,まけます,kalah,INTRANSITIVE
+被ります,かぶります,memakai (di kepala),TRANSITIVE
+履きます,はきます,memakai (celana; sepatu),TRANSITIVE
+諦めます,あきらめます,menyerah,TRANSITIVE
+彼,かれ,dia (laki laki),NOUN
+作った,つくった,membuat,TRANSITIVE
+計画,けいかく,rencana,NOUN
+政府,せいふ,pemerintah,NOUN
+新しい,あたらしい,baru,I_ADJECTIVE
+寝坊,ねぼう,bangun kesiangan,NOUN
+会社,かいしゃ,perusahaan,NOUN
+会議,かいぎ,rapat,NOUN
+時間,じかん,jam,NOUN
+試験,しけん,ujian,NOUN
+答え,こたえ,jawaban,NOUN
+上司,じょうし,atasan (kerja),NOUN
+近い,ちかい,dekat,I_ADJECTIVE
+勉強,べんきょう,belajar,NOUN
+子供,こども,anak anak,NOUN
+地下,ちか,ruang bawah tanah,NOUN
+森,もり,hutan,NOUN
+動物,どうぶつ,binatang,NOUN
+車,くるま,mobil,NOUN
+息子,むすこ,anak laki laki (kandung),NOUN
+描いた,かいた,menggambar,TRANSITIVE
+絵,え,lukisan; gambar,NOUN
+親友,しんゆう,sahabat,NOUN
+誕生日,たんじょうび,hari ulang tahun,NOUN
+家族,かぞく,keluarga,NOUN
+社長,しゃちょう,boss,NOUN
+お米,おこめ,beras,NOUN
+試合,しあい,pertandingan,NOUN
+友達,ともだち,teman,NOUN
+晴れている,はれている,cerah,INTRANSITIVE
+帽子,ぼうし,topi,NOUN
+海,うみ,laut,NOUN
+難しい,むずかしい,susah,I_ADJECTIVE
+良い,いい,bagus; baik,I_ADJECTIVE
+美味しい,おいしい,enak,I_ADJECTIVE
+まずい,まずい,tidak enak,I_ADJECTIVE
+大きい,おおきい,besar,I_ADJECTIVE
+小さい,ちいさい,kecil,I_ADJECTIVE
+高い,たかい,tinggi; mahal,I_ADJECTIVE
+安い,やすい,murah,I_ADJECTIVE
+暑い,あつい,panas (udara; cuaca),I_ADJECTIVE
+熱い,あつい,panas (benda),I_ADJECTIVE
+寒い,さむい,dingin (udara; cuaca),I_ADJECTIVE
+冷たい,つめたい,dingin (benda),I_ADJECTIVE
+暖かい,あたたかい,hangat (udara; cuaca),I_ADJECTIVE
+温かい,あたたかい,hangat (benda),I_ADJECTIVE
+ぬるい,ぬるい,tidak panas; tidak dingin,I_ADJECTIVE
+新しい,あたらしい,baru,I_ADJECTIVE
+古い,ふるい,tua; lama,I_ADJECTIVE
+多い,おおい,banyak,I_ADJECTIVE
+少ない,すくない,sedikit,I_ADJECTIVE
+太い,ふとい,tebal,I_ADJECTIVE
+細い,ほそい,tipis; kurus,I_ADJECTIVE
+重い,おもい,berat,I_ADJECTIVE
+軽い,かるい,ringan,I_ADJECTIVE
+彼,かれ,dia (laki laki),NOUN
+友達,ともだち,teman,NOUN
+たくさん,たくさん,banyak,ADVERB
+料理,りょうり,masakan,NOUN
+おかわり,おかわり,menambah makanan,NOUN
+食べたくない,食べたくない,tidak ingin makan,I_ADJECTIVE
+家族,かぞく,keluarga,NOUN
+家,いえ,rumah,NOUN
+住んでいます,すんでいます,tinggal,NOUN
+一人暮らし,ひとりぐらし,tinggal sendirian,NOUN
+家賃,やちん,biaya sewa rumah,NOUN
+物価,ぶっか,harga barang,NOUN
+薄い,うすい,tipis,I_ADJECTIVE
+服,ふく,pakaian; baju,NOUN
+着ます,きます,memakai (pakaian),TRANSITIVE
+フライパン,フライパン,penggorengan,NOUN
+ジャケット,ジャケット,jaket,NOUN
+飲み物,のみもの,minuman,NOUN
+氷,こおり,es,NOUN
+入っている,はいっている,berisi,INTRANSITIVE
+天気,てんき,cuaca,NOUN
+とても,とても,sangat,ADVERB
+お茶,おちゃ,teh,NOUN
+コーヒー,こーひー,kopi,NOUN
+建物,たてもの,bangunan,NOUN
+バイク,ばいく,motor,NOUN
+乗っている,のっている,naik; mengendarai,INTRANSITIVE
+喫茶店,きっさてん,cafe,NOUN
+お客さん,おきゃくさん,tamu; pelanggan,NOUN
+腕,うで,lengan,NOUN
+カバン,かばん,tas,NOUN
+本,ほん,buku,NOUN
+入っていない,はいっていない,tidak berisi,I_ADJECTIVE
+悪い,わるい,buruk,I_ADJECTIVE
+甘い,あまい,manis,I_ADJECTIVE
+苦い,にがい,pahit,I_ADJECTIVE
+苦しい,くるしい,sesak; menyakitkan (fisik),I_ADJECTIVE
+酸っぱい,すっぱい,asam,I_ADJECTIVE
+しょっぱい,しょっぱい,asin,I_ADJECTIVE
+辛い,からい,pedas,I_ADJECTIVE
+辛い,つらい,berat; menyakitkan (mental),I_ADJECTIVE
+長い,ながい,panjang,I_ADJECTIVE
+短い,みじかい,pendek,I_ADJECTIVE
+高い,たかい,tinggi; mahal,I_ADJECTIVE
+低い,ひくい,rendah,I_ADJECTIVE
+可愛い,かわいい,imut; lucu,I_ADJECTIVE
+汚い,きたない,kotor,I_ADJECTIVE
+面白い,おもしろい,menarik; lucu,I_ADJECTIVE
+つまらない,つまらない,tidak menarik; membosankan,I_ADJECTIVE
+近い,ちかい,dekat,I_ADJECTIVE
+遠い,とおい,jauh,I_ADJECTIVE
+早い,はやい,cepat (waktu),I_ADJECTIVE
+速い,はやい,cepat (gerakan),I_ADJECTIVE
+遅い,おそい,lambat,I_ADJECTIVE
+彼女,かのじょ,dia (perempuan); pacar,NOUN
+一人,ひとり,sendiri; satu orang,NOUN
+砂糖,さとう,gula,NOUN
+マスク,ますく,masker,NOUN
+息,いき,nafas,NOUN
+レモン,れもん,lemon,NOUN
+塩,しお,garam,NOUN
+唐辛子,とうがらし,cabai,NOUN
+仕事,しごと,pekerjaan,NOUN
+毎日,まいにち,setiap hari,NOUN
+ロープ,ろーぷ,tali,NOUN
+ちょっと,ちょっと,sedikit,ADVERB
+切ります,きります,memotong,TRANSITIVE
+スカート,スカート,rok,NOUN
+履いている,はいている,memakai (celana; rok; sepatu; sandal),TRANSITIVE
+女の人,おんなのひと,perempuan,NOUN
+多い,おおい,banyak,I_ADJECTIVE
+兄,あに,kakak laki laki,NOUN
+背,せ,tinggi badan,NOUN
+一番,いちばん,nomor satu; paling,NOUN
+妹,いもうと,adik perempuan,NOUN
+顔,かお,muka; wajah,NOUN
+部屋,へや,kamar,NOUN
+掃除,そうじ,bersih bersih,NOUN
+映画,えいが,film,NOUN
+見たい,みたい,ingin melihat; ingin menonton,I_ADJECTIVE
+途中,とちゅう,di tengah (melakukan sesuatu),NOUN
+寝てしまった,ねてしまった,tidak sengaja tidur; tertidur,INTRANSITIVE
+コンビニ,こんびに,konbini; mini market,NOUN
+歩いて,あるいて,dengan jalan kaki,NOUN
+スーパー,すーぱー,supermarket,NOUN
+車,くるま,mobil,NOUN
+行きます,いきます,pergi,INTRANSITIVE
+夜,よる,malam,NOUN
+新幹線,しんかんせん,shinkansen,NOUN
+普通,ふつう,biasa,NOUN
+電車,でんしゃ,kereta,NOUN
+より,より,dibanding,PARTICLE
+広い,ひろい,luas,I_ADJECTIVE
+狭い,せまい,sempit,I_ADJECTIVE
+厚い,あつい,tebal,I_ADJECTIVE
+薄い,うすい,tipis; hambar,I_ADJECTIVE
+濃い,こい,pekat,I_ADJECTIVE
+深い,ふかい,dalam,I_ADJECTIVE
+浅い,あさい,dangkal,I_ADJECTIVE
+丸い,まるい,bulat,I_ADJECTIVE
+硬い,かたい,keras,I_ADJECTIVE
+柔らかい,やわらかい,lembut; lembek,I_ADJECTIVE
+ずるい,ずるい,curang; licik,I_ADJECTIVE
+細かい,こまかい,kecil kecil; detail,I_ADJECTIVE
+ひどい,ひどい,jahat,I_ADJECTIVE
+痛い,いたい,sakit,I_ADJECTIVE
+弱い,よわい,lemah,I_ADJECTIVE
+強い,つよい,kuat,I_ADJECTIVE
+涼しい,すずしい,sejuk,I_ADJECTIVE
+明るい,あかるい,terang,I_ADJECTIVE
+暗い,くらい,gelap,I_ADJECTIVE
+眠い,ねむい,ngantuk,I_ADJECTIVE
+お金持ち,おかねもち,orang kaya,NOUN
+家,いえ,rumah,NOUN
+庭,にわ,halaman,NOUN
+貧乏,びんぼう,miskin,NOUN
+アパート,あぱーと,apartment,NOUN
+住んでいます,すんでいます,tinggal,INTRANSITIVE
+壁,かべ,dinding; tembok,NOUN
+隣,となり,sebelah; samping,NOUN
+部屋,へや,kamar,NOUN
+声,こえ,suara,NOUN
+聞こえません,きこえません,tidak terdengar,INTRANSITIVE
+紙,かみ,kertas,NOUN
+破れにくい,やぶれにくい,tidak mudah sobek; tidak mudah robek,I_ADJECTIVE
+味,あじ,rasa,NOUN
+山,やま,gunung,NOUN
+近く,ちかく,dekat,NOUN
+池,いけ,kolam,NOUN
+遊ばないで,あそばないで,jangan bermain,EXPRESSION
+森,もり,hutan,NOUN
+湖,みずうみ,danau,NOUN
+泳ぎに行きます,およぎにいきます,pergi untuk berenang,EXPRESSION
+テーブル,てーぶる,meja,NOUN
+椅子,いす,kursi,NOUN
+石,いし,batu,NOUN
+作られている,つくられている,dibuat; terbuat,INTRANSITIVE
+ステーキ,すてーき,steak,NOUN
+キャベツ,きゃべつ,kol; kubis,NOUN
+切って,きって,memotong,TRANSITIVE
+言った,いった,mengatakan,INTRANSITIVE
+泣きました,なきました,menangis,INTRANSITIVE
+友達,ともだち,teman,NOUN
+道,みち,jalan,NOUN
+転んで,ころんで,jatuh,INTRANSITIVE
+足,あし,kaki,NOUN
+体,からだ,badan,NOUN
+病気,びょうき,sakit,NOUN
+なりやすい,なりやすい,gampang jadi,I_ADJECTIVE
+試合,しあい,pertandingan,NOUN
+勝ちました,かちました,menang,INTRANSITIVE
+ところ,ところ,tempat,NOUN
+ランプ,らんぷ,lampu,NOUN
+電灯,でんとう,lampu,NOUN
+少ない,すくない,sedikit,I_ADJECTIVE
+かなり,かなり,lumayan,ADVERB
+嬉しい,うれしい,senang,I_ADJECTIVE
+悲しい,かなしい,sedih,I_ADJECTIVE
+楽しい,たのしい,menyenangkan,I_ADJECTIVE
+かっこいい,かっこいい,keren,I_ADJECTIVE
+優しい,やさしい,baik hati,I_ADJECTIVE
+親しい,したしい,akrab; ramah,I_ADJECTIVE
+怖い,こわい,takut; seram,I_ADJECTIVE
+若い,わかい,muda,I_ADJECTIVE
+寂しい,さびしい,kesepian (sedih),I_ADJECTIVE
+危ない,あぶない,bahaya,I_ADJECTIVE
+大人しい,おとなしい,pendiam (dalam artian positif),I_ADJECTIVE
+上手い,うまい,jago; enak,I_ADJECTIVE
+厳しい,きびしい,ketat; keras,I_ADJECTIVE
+忙しい,いそがしい,sibuk,I_ADJECTIVE
+恥ずかしい,はずかしい,malu,I_ADJECTIVE
+欲しい,ほしい,ingin; pengen,I_ADJECTIVE
+正しい,ただしい,benar,I_ADJECTIVE
+美しい,うつくしい,indah; cantik,I_ADJECTIVE
+おかしい,おかしい,aneh,I_ADJECTIVE
+素晴らしい,すばらしい,luar biasa,I_ADJECTIVE
+凄い,すごい,hebat,I_ADJECTIVE
+珍しい,めずらしい,langka; jarang,I_ADJECTIVE
+試験,しけん,ujian,NOUN
+合格,ごうかく,lulus,NOUN
+大好き,だいすき,sangat suka,NA_ADJECTIVE
+靴,くつ,sepatu,NOUN
+ガム,がむ,permen karet,NOUN
+踏んだ,ふんだ,menginjak,TRANSITIVE
+デート,でーと,kencan,NOUN
+世界一,せかいいち,nomor satu di dunia; paling,NOUN
+校長,こうちょう,kepala sekolah,NOUN
+学生,がくせい,murid,NOUN
+人気,にんき,populer,NOUN
+友人,ゆうじん,teman,NOUN
+旅行,りょこう,jalan jalan; traveling,NOUN
+ホラー,ほらー,horror,NOUN
+映画,えいが,film,NOUN
+仕事,しごと,pekerjaan,NOUN
+銀行員,ぎんこういん,pegawai bank,NOUN
+初めて,はじめて,pertama kali,ADVERB
+一人暮らし,ひとりぐらし,tinggal sendirian,NOUN
+場所,ばしょ,tempat,NOUN
+絶対に,ぜったいに,pasti; pastikan,ADVERB
+子,こ,anak,NOUN
+話しません,はなしません,tidak berbicara,TRANSITIVE
+兄,あに,kakak laki laki,NOUN
+絵,え,gambar; lukisan,NOUN
+学校,がっこう,sekolah,NOUN
+ルール,るーる,peraturan,NOUN
+最近,さいきん,belakangan ini; akhir akhir ini,NOUN
+運動,うんどう,olahraga,NOUN
+教室,きょうしつ,kelas,NOUN
+オナラ,おなら,kentut,NOUN
+家具,かぐ,perabotan rumah; furniture,NOUN
+答え,こたえ,jawaban,NOUN
+思います,おもいます,berpendapat; mengira,INTRANSITIVE
+妻,つま,istri,NOUN
+本当に,ほんとうに,benar benar,ADVERB
+話,はなし,cerita,NOUN
+たぶん,たぶん,mungkin; kayaknya,ADVERB
+嘘,うそ,bohong,NOUN
+アイデア,あいであ,ide,NOUN
+賛成,さんせい,setuju,NOUN
+ビジネス,びじねす,bisnis,NOUN
+成功,せいこう,sukses; berhasil,NOUN
+魚,さかな,ikan,NOUN
+好き,すき,suka,NA_ADJECTIVE
+嫌い,きらい,benci,NA_ADJECTIVE
+大事,だいじ,penting,NA_ADJECTIVE
+大切,たいせつ,penting,NA_ADJECTIVE
+上手,じょうず,jago,NA_ADJECTIVE
+下手,へた,tidak jago,NA_ADJECTIVE
+便利,べんり,praktis; strategis,NA_ADJECTIVE
+不便,ふべん,tidak praktis; tidak strategis,NA_ADJECTIVE
+いっぱい,いっぱい,banyak; penuh,NA_ADJECTIVE
+十分,じゅうぶん,cukup,NA_ADJECTIVE
+丁寧,ていねい,dengan sopan; dengan baik,NA_ADJECTIVE
+失礼,しつれい,tidak sopan,NA_ADJECTIVE
+丈夫,じょうぶ,kokoh; kuat,NA_ADJECTIVE
+有名,ゆうめい,terkenal,NA_ADJECTIVE
+人気,にんき,populer,NA_ADJECTIVE
+元気,げんき,sehat; semangat,NA_ADJECTIVE
+熱心,ねっしん,rajin; tekun,NA_ADJECTIVE
+安心,あんしん,lega; tidak khawatir,NA_ADJECTIVE
+心配,しんぱい,khawatir,NA_ADJECTIVE
+安全,あんぜん,aman,NA_ADJECTIVE
+危険,きけん,berbahaya,NA_ADJECTIVE
+変,へん,aneh,NA_ADJECTIVE
+大変,たいへん,susah; berat; melelahkan,NA_ADJECTIVE
+楽,らく,enteng; mudah,NA_ADJECTIVE
+納豆,なっとう,nattou,NOUN
+食べ物,たべもの,makanan,NOUN
+臭い,くさい,bau,NOUN
+壊れない,こわれない,tidak rusak,I_ADJECTIVE
+持って,もって,membawa,TRANSITIVE
+漢字,かんじ,kanji,NOUN
+書く,かく,menulis,TRANSITIVE
+最近,さいきん,belakangan ini; akhir akhir ini,NOUN
+携帯電話,けいたいでんわ,telepon genggam,NOUN
+ネクタイ,ねくたい,dasi,NOUN
+夫,おっと,suami,NOUN
+料理,りょうり,masakan,NOUN
+どんどん,どんどん,semakin,ADVERB
+家,いえ,rumah,NOUN
+駅,えき,stasiun,NOUN
+遠い,とおい,jauh,I_ADJECTIVE
+食べすぎて,たべすぎて,terlalu banyak makan,EXPRESSION
+お腹,おなか,perut,NOUN
+大学,だいがく,perguruan tinggi; kampus,NOUN
+入る,はいる,masuk,NOUN
+万円,まんえん,10.000 yen,NOUN
+店,みせ,toko,NOUN
+店員,てんいん,pegawai toko,NOUN
+言葉,ことば,kata kata,NOUN
+上司,じょうし,atasan (kerja),NOUN
+怒られました,おこられました,dimarah,INTRANSITIVE
+体,からだ,badan,NOUN
+全然,ぜんぜん,(tidak) sama sekali,ADVERB
+風邪,かぜ,demam; flu; masuk angin,NOUN
+父,ちち,ayah,NOUN
+歌手,かしゅ,penyanyi,NOUN
+女性,じょせい,perempuan,NOUN
+おじいさん,おじいさん,kakek,NOUN
+歳,さい,umur,NOUN
+社員,しゃいん,pegawai kantor,NOUN
+交番,こうばん,kantor polisi; pos polisi,NOUN
+病院,びょういん,rumah sakit,NOUN
+事故,じこ,kecelakaan,NOUN
+起こさないように,おこさないように,agar tidak membuat,EXPRESSION
+運転,うんてん,mengendarai; menyetir,TRANSITIVE
+道,みち,jalan,NOUN
+車,くるま,mobil,NOUN
+結果,けっか,hasil,NOUN
+眠れない,ねむれない,tidak bisa tidur,I_ADJECTIVE
+音,おと,bunyi,NOUN
+機械,きかい,mesin,NOUN
+止めて,とめて,menghentikan,TRANSITIVE
+調べました,しらべました,memeriksa,TRANSITIVE
+短い,みじかい,pendek,I_ADJECTIVE
+簡単,かんたん,mudah,NA_ADJECTIVE
+親切,しんせつ,baik hati; ramah,NA_ADJECTIVE
+静か,しずか,sunyi; tenang,NA_ADJECTIVE
+賑やか,にぎやか,ramai (suara),NA_ADJECTIVE
+自由,じゆう,bebas,NA_ADJECTIVE
+残念,ざんねん,sayang sekali,NA_ADJECTIVE
+急,きゅう,tiba tiba,NA_ADJECTIVE
+暇,ひま,senggang; tidak ada kegiatan,NA_ADJECTIVE
+必要,ひつよう,diperlukan,NA_ADJECTIVE
+特別,とくべつ,spesial,NA_ADJECTIVE
+複雑,ふくざつ,rumit,NA_ADJECTIVE
+盛ん,さかん,populer; banyak orang yang melakukan; melimpah,NA_ADJECTIVE
+無理,むり,tidak mungkin,NA_ADJECTIVE
+立派,りっぱ,luar biasa; hebat,NA_ADJECTIVE
+真っすぐ,まっすぐ,lurus,NA_ADJECTIVE
+真面目,まじめ,serius,NA_ADJECTIVE
+確か,たしか,pasti,NA_ADJECTIVE
+適当,てきとう,tepat; asal asalan,NA_ADJECTIVE
+邪魔,じゃま,gangguan; menghalangi,NA_ADJECTIVE
+駄目,だめ,tidak boleh,NA_ADJECTIVE
+国際的,こくさいてき,internasional,NA_ADJECTIVE
+点,てん,nilai; poin; titik,NOUN
+隣,となり,di samping,NOUN
+ごみ,ごみ,sampah,NOUN
+出し方,だしかた,cara membuang,NOUN
+教えてくれました,おしえてくれました,diajarkan; diberi tahu,INTRANSITIVE
+都会,とかい,kota besar,NOUN
+田舎,いなか,pedesaan,NOUN
+〜より〜の方が,〜より〜の方が,dibanding~lebih~,EXPRESSION
+お祭り,おまつり,festival,NOUN
+一人,ひとり,sendiri,NOUN
+旅行,りょこう,jalan jalan; travel,NOUN
+卒業式,そつぎょうしき,upacara kelulusan,NOUN
+出席,しゅっせき,hadir,NOUN
+雨,あめ,hujan,NOUN
+降って,ふって,turun (hujan),INTRANSITIVE
+走りました,はしりました,lari,INTRANSITIVE
+一緒に,いっしょに,bersama,ADVERB
+遊園地,ゆうえんち,taman bermain,NOUN
+予約,よやく,booking,NOUN
+誕生日,たんじょうび,hari ulang tahun,NOUN
+料理,りょうり,masakan,NOUN
+作ります,つくります,membuat,TRANSITIVE
+使い方,つかいかた,cara memakai,NOUN
+お年寄り,おとしより,lansia,NOUN
+難しい,むずかしい,susah,I_ADJECTIVE
+卒業した,そつぎょうした,lulus (dari sekolah),INTRANSITIVE
+高校,こうこう,SMA,NOUN
+厚い,あつい,tebal,I_ADJECTIVE
+読む,よむ,membaca,TRANSITIVE
+建物,たてもの,bangunan,NOUN
+美術館,びじゅつかん,museum,NOUN
+病院,びょういん,rumah sakit,NOUN
+勉強,べんきょう,belajar,NOUN
+情報,じょうほう,informasi,NOUN
+教えて,おしえて,memberi tahu; mengajar,TRANSITIVE
+答え,こたえ,jawaban,NOUN
+選んで,えらんで,memilih,TRANSITIVE
+箱,はこ,kotak,NOUN
+運んで,はこんで,mengangkut; memindahkan,TRANSITIVE
+宿題,しゅくだい,PR,NOUN
+来週,らいしゅう,minggu depan,NOUN
+柔道,じゅうどう,Judo (bela diri),NOUN
+夫,おっと,suami,NOUN
+妻,つま,istri,NOUN
+主人,しゅじん,suami,NOUN
+家内,かない,istri,NOUN
+パパ,,papa,NOUN
+ママ,,mama,NOUN
+子,こ,anak,NOUN
+息子,むすこ,anak laki laki,NOUN
+娘,むすめ,anak perempuan,NOUN
+お子さん,おこさん,anak,NOUN
+お嬢さん,おじょうさん,anak perempuan (orang lain),NOUN
+祖父,そふ,kakek,NOUN
+祖母,そぼ,nenek,NOUN
+おじさん,おじさん,paman,NOUN
+おばさん,おばさん,bibi,NOUN
+赤ちゃん,あかちゃん,bayi,NOUN
+赤ん坊,あかんぼう,bayi,NOUN
+大人,おとな,orang dewasa,NOUN
+おじさん,おじさん,paman (orang lain),NOUN
+おばさん,おばさん,bibi (orang lain),NOUN
+お年寄り,おとしより,lansia,NOUN
+男性,だんせい,laki laki (jenis kelamin),NOUN
+女性,じょせい,perempuan (jenis kelamin),NOUN
+男女,だんじょ,laki laki dan perempuan,NOUN
+彼,かれ,dia (laki laki),NOUN
+彼女,かのじょ,dia (perempuan); pacar,NOUN
+彼ら,かれら,mereka,NOUN
+彼女たち,かのじょたち,mereka,NOUN
+君,きみ,kamu,NOUN
+僕,ぼく,aku,NOUN
+皆,みな,semua (orang),NOUN
+みんな,みんな,semuanya; semua (orang),NOUN
