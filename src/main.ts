@@ -63,7 +63,10 @@ async function bootstrap() {
 
   // cors
   app.enableCors({
-    origin: ['http://localhost:3001', 'http://192.168.10.101:3001'],
+    origin: [
+      'http://localhost:3000',
+      /^https?:\/\/([a-z0-9-]+\.)*ruhiyatna\.id$/,
+    ],
     credentials: true,
   });
 
