@@ -27,6 +27,7 @@ async function bootstrap() {
         sameSite: 'none',
         secure: process.env.NODE_ENV === 'production', // Make sure this is false for development over HTTP
       },
+      proxy: process.env.NODE_ENV === 'production',
       store: new PrismaSessionStore(new PrismaClient(), {
         checkPeriod: 2 * 60 * 1000,
         dbRecordIdIsSessionId: true,
