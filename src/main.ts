@@ -24,7 +24,7 @@ async function bootstrap() {
       resave: false,
       saveUninitialized: false,
       cookie: {
-        sameSite: false,
+        sameSite: 'none',
         secure: process.env.NODE_ENV === 'production', // Make sure this is false for development over HTTP
       },
       store: new PrismaSessionStore(new PrismaClient(), {
